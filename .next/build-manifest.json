@@ -39,11 +39,6 @@
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/orders.js"
-    ],
-    "/success": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/success.js"
     ]
   },
   "ampFirstPages": []
